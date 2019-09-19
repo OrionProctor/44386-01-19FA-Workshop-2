@@ -1,7 +1,7 @@
 # 44386-01-19FA-Workshop-2 Kali Linux: Binwalk
 ##### By Jack Hill, Andrew Proctor, and Cole Housten
-<TODO> Display team slide
-###### [https://github.com/OrionProctor/44386-01-19FA-Workshop-2](https://github.com/OrionProctor/44386-01-19FA-Workshop-2)
+<img src="./Docs/TeamSlide.jpg" width="640" height="360"/><br/>
+###### (https://github.com/OrionProctor/44386-01-19FA-Workshop-2)
 </br>
 
 ### Questions
